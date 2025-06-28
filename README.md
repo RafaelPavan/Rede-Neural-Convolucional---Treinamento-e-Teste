@@ -46,5 +46,3 @@ Os pré-requisitos são os mesmos do treinamento. Se você já instalou as bibli
     - A linha **49** do código contém uma função `break` comentada. Como utilizamos um `while True` para manter o loop de detecção em tempo real, você pode descomentar essa linha para sair do loop a qualquer momento.
 
 ---
-
-Se precisar de mais alguma alteração ou tiver dúvidas, é só me dizer\!
